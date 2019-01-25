@@ -1,4 +1,4 @@
-## ISEM-BACC 2018 QUANTITATIVE CASE COMPETITION 2018
+## ISEM-BACC 2018 Quantitative CASE Question
 
 The annual ISEM-BACC Case Competition seeks to promote the ISE discipline amongst pre-University students, through the introduction of ISE related problems. In 2018, the competition tackles at the Dial-a-Ride Problem (DARP) and participants are required to design the vehicle schedules for a transportation company. 
 
